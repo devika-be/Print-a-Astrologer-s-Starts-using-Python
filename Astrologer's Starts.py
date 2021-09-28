@@ -35,6 +35,7 @@ elif new == False:
             print("*", end= " ")
         print()
 
+#OR
 
 # 2)- Ans:
 #
@@ -51,6 +52,7 @@ elif new == False:
 #     for i in range(num,0,-1):
 #         print("*" * int(i))
 #
+#OR
 #
 # 3)- Ans:
 #
